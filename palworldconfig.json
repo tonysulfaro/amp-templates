@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Players",
+        "Category": "Server Settings",
+        "Description": "Number of Players in the server",
+        "Keywords": "players",
+        "FieldName": "players",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "players",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "32",
+        "Placeholder": "32",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
