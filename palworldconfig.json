@@ -8,7 +8,7 @@
         "InputType": "number",
         "IsFlagArgument": false,
         "ParamFieldName": "players",
-        "IncludeInCommandLine": false,
+        "IncludeInCommandLine": true,
         "DefaultValue": "32",
         "Placeholder": "32",
         "Suffix": "",
