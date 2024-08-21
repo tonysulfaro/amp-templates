@@ -1,7 +1,7 @@
 App.AdminMethod=STDIO
 App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./dont-starve-together/343050/
-App.CommandLineArgs=-persistent_storage_root ./dont-starve-together-startcluster.sh
+App.CommandLineArgs=-persistent_storage_root "../dstserver" -conf_dir "dstserver_config"
 App.CommandLineParameterDelimiter= 
 App.CommandLineParameterFormat=-{0} "{1}"
 App.DisplayName=Don't Starve Together Caves
