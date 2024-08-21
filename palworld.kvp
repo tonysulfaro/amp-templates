@@ -68,6 +68,7 @@ Console.UserJoinRegex=^$
 Console.UserLeaveRegex=^$
 Console.UserChatRegex=^$
 Meta.OS=2
+GenericModule.Meta.AppConfigId=6b7baff2-6a55-4641-bc9e-08ea74bf3f5d
 Meta.ConfigManifest=palworldconfig.json
 Meta.MetaConfigManifest=palworldmetaconfig.json
 Meta.ConfigRoot=palworld.kvp
